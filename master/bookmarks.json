@@ -1,0 +1,130 @@
+{
+  "folders": [
+    {
+      "name": "[TV/Movies]",
+      "location": "toolbar",
+      "bookmarks": [
+        {
+          "title": "Flixbaba",
+          "url": "https://flixbaba.mov/"
+        },
+        {
+          "title": "FLIXER - Your Premium Streaming Platform",
+          "url": "https://flixer.su/"
+        },
+        {
+          "title": "456movie",
+          "url": "https://456movie.nl/"
+        },
+        {
+          "title": "YesMovies",
+          "url": "https://ww.yesmovies.ag/yes.html"
+        },
+        {
+          "title": "PrimeFlix",
+          "url": "https://primeflix-web.vercel.app/"
+        },
+        {
+          "title": "Cinebytv",
+          "url": "https://broflix.cc/"
+        },
+        {
+          "title": "XPrime",
+          "url": "https://xprime.su/"
+        },
+        {
+          "title": "SpenFlix - Premium Streaming",
+          "url": "https://watch.spencerdevs.xyz/"
+        },
+        {
+          "title": "StreamM4u",
+          "url": "https://streamm4u.com.co/home"
+        },
+        {
+          "title": "Cineby",
+          "url": "https://www.cineby.app/"
+        },
+        {
+          "title": "Rive",
+          "url": "https://rivestream.org/"
+        },
+        {
+          "title": "Cinegram ",
+          "url": "https://cinegram.net/home"
+        },
+        {
+          "title": "NEPU Stream ",
+          "url": "https://nepu.to/"
+        }
+      ]
+    },
+    {
+      "name": "[Free NZ TV]",
+      "location": "toolbar",
+      "bookmarks": [
+        {
+          "title": "TVNZ OnDemand",
+          "url": "https://www.tvnz.co.nz/shows"
+        },
+        {
+          "title": "ThreeNow | Three | Watch Episodes",
+          "url": "https://www.threenow.co.nz/"
+        },
+        {
+          "title": "Watch Free Movies and TV Shows Online | Tubi",
+          "url": "https://tubitv.com/"
+        },
+        {
+          "title": "Watch TV shows for free | bstsrs.in",
+          "url": "https://bstsrs.in/"
+        },
+        {
+          "title": "Couchtuner Free TV",
+          "url": "https://www.couchtuner.show/"
+        },
+        {
+          "title": "HISTORY",
+          "url": "https://play.history.com/"
+        },
+        {
+          "title": "Global TV Online",
+          "url": "https://tv.garden/"
+        }
+      ]
+    },
+    {
+      "name": "[Sports]",
+      "location": "toolbar",
+      "bookmarks": [
+        {
+          "title": "Streamed sports",
+          "url": "https://streamed.pk/"
+        },
+        {
+          "title": "BuffStream",
+          "url": "https://buffstreams.is/"
+        },
+        {
+          "title": "Live Rugby Streaming ",
+          "url": "https://www.vipbox.sc/rugby-live"
+        },
+        {
+          "title": "Watch Footy - Rugby",
+          "url": "https://watchfooty.st/en/rugby"
+        },
+        {
+          "title": "BINTV - Watch Any Live Sports Online",
+          "url": "https://www.bintv.net/"
+        },
+        {
+          "title": "DaddyLive ",
+          "url": "https://dlhd.st/"
+        },
+        {
+          "title": "TimStreams | Watch Live Sports Free",
+          "url": "https://timstreams.st/"
+        }
+      ]
+    }
+  ]
+}
