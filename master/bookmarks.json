@@ -125,6 +125,275 @@
           "url": "https://timstreams.st/"
         }
       ]
+    },
+    {
+      "name": "[New Sports]",
+      "location": "toolbar",
+      "bookmarks": [
+        {
+          "title": "Streamed - Live Sports",
+          "url": "https://streamed.pk/"
+        },
+        {
+          "title": "⁠StreamFree - Live Sports",
+          "url": "https://streamfree.top/"
+        },
+        {
+          "title": "TimStreams - Live Sports",
+          "url": "https://timstreams.st/"
+        },
+        {
+          "title": "SportsindX - Live Sports",
+          "url": "https://sportsindx.st/"
+        },
+        {
+          "title": "StreamSports99 - Live Sports",
+          "url": "https://streamsports99.ru/"
+        },
+        {
+          "title": "RoxieStreams - Live Sports",
+          "url": "https://roxiestreams.su/"
+        },
+        {
+          "title": "SportsBite - Live Sports",
+          "url": "https://sportsbite.org/"
+        },
+        {
+          "title": "BINTV - Live Sports",
+          "url": "https://www.bintv.cc/"
+        },
+        {
+          "title": "Watch Footy - Live Sports",
+          "url": "https://watchfooty.st/"
+        },
+        {
+          "title": "NTV - Live Sports",
+          "url": "http://ntv.cx/"
+        },
+        {
+          "title": "PPV.TO - Live Sports",
+          "url": "https://ppv.st/"
+        },
+        {
+          "title": "WatchSports(su) - Stream Aggregator",
+          "url": "https://watchsports.su/"
+        },
+        {
+          "title": "DaddyLive - Live Sports",
+          "url": "https://dlhd.st/"
+        },
+        {
+          "title": "LiveTV - Live Sports",
+          "url": "https://livetv.sx/enx/"
+        },
+        {
+          "name": "Sports Replays",
+          "bookmarks": [
+            {
+              "title": "Basketball Video - Basketball Replays",
+              "url": "https://basketball-video.com/"
+            },
+            {
+              "title": "Footballia - Classic Football Replays",
+              "url": "https://footballia.net/"
+            },
+            {
+              "title": "Watch-Wrestling.eu - MMA / Wrestling Replays",
+              "url": "https://watch-wrestling.eu/"
+            },
+            {
+              "title": "1Max - MMA / Wrestling / Boxing Replays",
+              "url": "https://1max.top/"
+            },
+            {
+              "title": "Nascar Classics - Nascar Replays",
+              "url": "https://classics.nascar.com/"
+            },
+            {
+              "title": "FullRaces - Motorsport Replays",
+              "url": "https://fullraces.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "[Streaming Movies]",
+      "location": "toolbar",
+      "bookmarks": [
+        {
+          "title": "Cineby - Stream Aggregators",
+          "url": "https://cineby.at/"
+        },
+        {
+          "title": "PopcornMovies - Movies / TV / Anime / Auto-Next",
+          "url": "https://popcornmovies.io/"
+        },
+        {
+          "title": "P-Stream Forks - Movies / TV / Anime / Auto-Next",
+          "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_p-stream_forks"
+        },
+        {
+          "title": "Cinejoy - Stream Aggregators",
+          "url": "https://cinejoy.to/"
+        },
+        {
+          "title": "Rive - Stream Aggregators",
+          "url": "https://www.rivestream.app/"
+        },
+        {
+          "title": "GOATED - Stream Aggregators",
+          "url": "https://goated.cx/"
+        },
+        {
+          "title": "Flixer - Movies / TV / Anime / Auto-Next",
+          "url": "https://flixer.gd/"
+        },
+        {
+          "title": "67Movies - Stream Aggregators",
+          "url": "https://67movies.nl/"
+        },
+        {
+          "title": "Movy - Movies / TV / Anime / Auto-Next",
+          "url": "https://www.movy.bz/"
+        },
+        {
+          "title": "bCine - Stream Aggregators",
+          "url": "https://bcine.ru/"
+        },
+        {
+          "title": "Coreflix - Stream Aggregators",
+          "url": "https://coreflix.tv/"
+        },
+        {
+          "title": "MeowTV - Stream Aggregators",
+          "url": "https://meowtv.ru/"
+        },
+        {
+          "title": "ShuttleTV - Stream Aggregators",
+          "url": "https://shuttletv.su/"
+        },
+        {
+          "title": "TouStream - Stream Aggregators",
+          "url": "https://toustream.xyz/"
+        },
+        {
+          "title": "Vyla Entertainment - Stream Aggregators",
+          "url": "https://vyla.cc/"
+        },
+        {
+          "name": "Multi-Server",
+          "bookmarks": [
+            {
+              "title": "1Shows - Multi-Server",
+              "url": "https://www.1shows.org/"
+            },
+            {
+              "title": "CinemaOS - Multi-Server",
+              "url": "https://cinemaos.live/"
+            },
+            {
+              "title": "AuroraScreen - Multi-Server",
+              "url": "https://www.aurorascreen.org/"
+            },
+            {
+              "title": "7Movies - Multi-Server",
+              "url": "https://7movies.in/"
+            },
+            {
+              "title": "AniCine - Multi-Server",
+              "url": "https://anicine.xyz/"
+            },
+            {
+              "title": "ZetMoon - Movies / TV / Anime",
+              "url": "https://zetmoon.live/"
+            },
+            {
+              "title": "Primeshows - Multi-Server",
+              "url": "https://www.primeshows.org/"
+            },
+            {
+              "title": "Anixtv - Multi-Server",
+              "url": "https://anixx.fun/"
+            },
+            {
+              "title": "HydraHD - Multi-Server",
+              "url": "https://hydrahd.ws/"
+            },
+            {
+              "title": "Fireflix - Movies / TV / Anime / Auto-Next",
+              "url": "https://fireflix.pages.dev/"
+            }
+          ]
+        },
+        {
+          "name": "Video Streaming",
+          "bookmarks": [
+            {
+              "title": "VK - Video Streaming",
+              "url": "https://vkvideo.ru/"
+            },
+            {
+              "title": "OK - Video Streaming",
+              "url": "https://ok.ru/video"
+            },
+            {
+              "title": "YouTube - Video Streaming",
+              "url": "https://www.youtube.com/"
+            },
+            {
+              "title": "Dailymotion - Video Streaming",
+              "url": "https://www.dailymotion.com/"
+            },
+            {
+              "title": "BiliBili - Video Streaming",
+              "url": "https://www.bilibili.com/"
+            },
+            {
+              "title": "Nico Nico - Video Streaming",
+              "url": "https://www.nicovideo.jp/"
+            },
+            {
+              "title": "Video Search CSE - Multi-Site Video Search",
+              "url": "https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0"
+            }
+          ]
+        },
+        {
+          "name": "P-Stream Forks",
+          "bookmarks": [
+            {
+              "title": "Z-Stream - P-Stream Forks",
+              "url": "https://zstream.mov/"
+            },
+            {
+              "title": "Aether - P-Stream Forks",
+              "url": "https://aether.bar/"
+            }
+          ]
+        },
+        {
+          "name": "Dedicated-Server",
+          "bookmarks": [
+            {
+              "title": "EE3 - Movies / Invite Codes: `mpgh` or `1hack` / Requires Sign-Up",
+              "url": "https://ee3.me/"
+            },
+            {
+              "title": "Bingr - Dedicated-Server",
+              "url": "https://bingr.one/"
+            },
+            {
+              "title": "CineStream - Dedicated-Server",
+              "url": "https://cinestream.kje.us/p"
+            },
+            {
+              "title": "NEPU - Dedicated-Server",
+              "url": "https://nepu.to/"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
