@@ -77,18 +77,6 @@
         {
           "title": "Watch TV shows for free | bstsrs.in",
           "url": "https://bstsrs.in/"
-        },
-        {
-          "title": "Couchtuner Free TV",
-          "url": "https://www.couchtuner.show/"
-        },
-        {
-          "title": "HISTORY",
-          "url": "https://play.history.com/"
-        },
-        {
-          "title": "Global TV Online",
-          "url": "https://tv.garden/"
         }
       ]
     },
@@ -115,10 +103,6 @@
         {
           "title": "BINTV - Watch Any Live Sports Online",
           "url": "https://www.bintv.net/"
-        },
-        {
-          "title": "DaddyLive ",
-          "url": "https://dlhd.st/"
         },
         {
           "title": "TimStreams | Watch Live Sports Free",
@@ -187,33 +171,28 @@
           "url": "https://livetv.sx/enx/"
         },
         {
-          "name": "Sports Replays",
-          "bookmarks": [
-            {
-              "title": "Basketball Video - Basketball Replays",
-              "url": "https://basketball-video.com/"
-            },
-            {
-              "title": "Footballia - Classic Football Replays",
-              "url": "https://footballia.net/"
-            },
-            {
-              "title": "Watch-Wrestling.eu - MMA / Wrestling Replays",
-              "url": "https://watch-wrestling.eu/"
-            },
-            {
-              "title": "1Max - MMA / Wrestling / Boxing Replays",
-              "url": "https://1max.top/"
-            },
-            {
-              "title": "Nascar Classics - Nascar Replays",
-              "url": "https://classics.nascar.com/"
-            },
-            {
-              "title": "FullRaces - Motorsport Replays",
-              "url": "https://fullraces.com/"
-            }
-          ]
+          "title": "Basketball Video - Basketball Replays",
+          "url": "https://basketball-video.com/"
+        },
+        {
+          "title": "Footballia - Classic Football Replays",
+          "url": "https://footballia.net/"
+        },
+        {
+          "title": "Watch-Wrestling.eu - MMA / Wrestling Replays",
+          "url": "https://watch-wrestling.eu/"
+        },
+        {
+          "title": "1Max - MMA / Wrestling / Boxing Replays",
+          "url": "https://1max.top/"
+        },
+        {
+          "title": "Nascar Classics - Nascar Replays",
+          "url": "https://classics.nascar.com/"
+        },
+        {
+          "title": "FullRaces - Motorsport Replays",
+          "url": "https://fullraces.com/"
         }
       ]
     },
@@ -282,116 +261,96 @@
           "url": "https://vyla.cc/"
         },
         {
-          "name": "Multi-Server",
-          "bookmarks": [
-            {
-              "title": "1Shows - Multi-Server",
-              "url": "https://www.1shows.org/"
-            },
-            {
-              "title": "CinemaOS - Multi-Server",
-              "url": "https://cinemaos.live/"
-            },
-            {
-              "title": "AuroraScreen - Multi-Server",
-              "url": "https://www.aurorascreen.org/"
-            },
-            {
-              "title": "7Movies - Multi-Server",
-              "url": "https://7movies.in/"
-            },
-            {
-              "title": "AniCine - Multi-Server",
-              "url": "https://anicine.xyz/"
-            },
-            {
-              "title": "ZetMoon - Movies / TV / Anime",
-              "url": "https://zetmoon.live/"
-            },
-            {
-              "title": "Primeshows - Multi-Server",
-              "url": "https://www.primeshows.org/"
-            },
-            {
-              "title": "Anixtv - Multi-Server",
-              "url": "https://anixx.fun/"
-            },
-            {
-              "title": "HydraHD - Multi-Server",
-              "url": "https://hydrahd.ws/"
-            },
-            {
-              "title": "Fireflix - Movies / TV / Anime / Auto-Next",
-              "url": "https://fireflix.pages.dev/"
-            }
-          ]
+          "title": "1Shows - Multi-Server",
+          "url": "https://www.1shows.org/"
         },
         {
-          "name": "Video Streaming",
-          "bookmarks": [
-            {
-              "title": "VK - Video Streaming",
-              "url": "https://vkvideo.ru/"
-            },
-            {
-              "title": "OK - Video Streaming",
-              "url": "https://ok.ru/video"
-            },
-            {
-              "title": "YouTube - Video Streaming",
-              "url": "https://www.youtube.com/"
-            },
-            {
-              "title": "Dailymotion - Video Streaming",
-              "url": "https://www.dailymotion.com/"
-            },
-            {
-              "title": "BiliBili - Video Streaming",
-              "url": "https://www.bilibili.com/"
-            },
-            {
-              "title": "Nico Nico - Video Streaming",
-              "url": "https://www.nicovideo.jp/"
-            },
-            {
-              "title": "Video Search CSE - Multi-Site Video Search",
-              "url": "https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0"
-            }
-          ]
+          "title": "CinemaOS - Multi-Server",
+          "url": "https://cinemaos.live/"
         },
         {
-          "name": "P-Stream Forks",
-          "bookmarks": [
-            {
-              "title": "Z-Stream - P-Stream Forks",
-              "url": "https://zstream.mov/"
-            },
-            {
-              "title": "Aether - P-Stream Forks",
-              "url": "https://aether.bar/"
-            }
-          ]
+          "title": "AuroraScreen - Multi-Server",
+          "url": "https://www.aurorascreen.org/"
         },
         {
-          "name": "Dedicated-Server",
-          "bookmarks": [
-            {
-              "title": "EE3 - Movies / Invite Codes: `mpgh` or `1hack` / Requires Sign-Up",
-              "url": "https://ee3.me/"
-            },
-            {
-              "title": "Bingr - Dedicated-Server",
-              "url": "https://bingr.one/"
-            },
-            {
-              "title": "CineStream - Dedicated-Server",
-              "url": "https://cinestream.kje.us/p"
-            },
-            {
-              "title": "NEPU - Dedicated-Server",
-              "url": "https://nepu.to/"
-            }
-          ]
+          "title": "7Movies - Multi-Server",
+          "url": "https://7movies.in/"
+        },
+        {
+          "title": "AniCine - Multi-Server",
+          "url": "https://anicine.xyz/"
+        },
+        {
+          "title": "ZetMoon - Movies / TV / Anime",
+          "url": "https://zetmoon.live/"
+        },
+        {
+          "title": "Primeshows - Multi-Server",
+          "url": "https://www.primeshows.org/"
+        },
+        {
+          "title": "Anixtv - Multi-Server",
+          "url": "https://anixx.fun/"
+        },
+        {
+          "title": "HydraHD - Multi-Server",
+          "url": "https://hydrahd.ws/"
+        },
+        {
+          "title": "Fireflix - Movies / TV / Anime / Auto-Next",
+          "url": "https://fireflix.pages.dev/"
+        },
+        {
+          "title": "VK - Video Streaming",
+          "url": "https://vkvideo.ru/"
+        },
+        {
+          "title": "OK - Video Streaming",
+          "url": "https://ok.ru/video"
+        },
+        {
+          "title": "YouTube - Video Streaming",
+          "url": "https://www.youtube.com/"
+        },
+        {
+          "title": "Dailymotion - Video Streaming",
+          "url": "https://www.dailymotion.com/"
+        },
+        {
+          "title": "BiliBili - Video Streaming",
+          "url": "https://www.bilibili.com/"
+        },
+        {
+          "title": "Nico Nico - Video Streaming",
+          "url": "https://www.nicovideo.jp/"
+        },
+        {
+          "title": "Video Search CSE - Multi-Site Video Search",
+          "url": "https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0"
+        },
+        {
+          "title": "Z-Stream - P-Stream Forks",
+          "url": "https://zstream.mov/"
+        },
+        {
+          "title": "Aether - P-Stream Forks",
+          "url": "https://aether.bar/"
+        },
+        {
+          "title": "EE3 - Movies / Invite Codes: `mpgh` or `1hack` / Requires Sign-Up",
+          "url": "https://ee3.me/"
+        },
+        {
+          "title": "Bingr - Dedicated-Server",
+          "url": "https://bingr.one/"
+        },
+        {
+          "title": "CineStream - Dedicated-Server",
+          "url": "https://cinestream.kje.us/p"
+        },
+        {
+          "title": "NEPU - Dedicated-Server",
+          "url": "https://nepu.to/"
         }
       ]
     }
