@@ -1,0 +1,1 @@
+'use strict';fetch('manifest.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('Home is temporarily unavailable. Please try again.');return r.json();}).then(m=>{if(!/^releases\/[a-f0-9]{24}\/index\.html$/.test(m.app))throw Error('Invalid Home release.');location.replace(new URL(m.app,location.href));}).catch(e=>{document.getElementById('status').textContent=e.message;});
