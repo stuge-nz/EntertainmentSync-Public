@@ -1,7 +1,9 @@
 {
-  "version": 5,
-  "bookmarks_sha256": "4dc816d9940f0c9380a8f942d39c72353119835974856c2c2512a248ec2b005b",
+  "version": 6,
+  "bookmarks_sha256": "81d06600a1797cd2025f5de187369514eee73c3fe0b9ce954388e42f77690616",
   "artwork_sha256": "f37aafb7b0dbd1fb15bc456ea2d8fc1b17edad82955d6067475870e6a1262933",
-  "notes": [],
-  "published": "2026-09-05T18:43:47+12:00"
+  "notes": [
+    "Curated EntertainmentSync sources."
+  ],
+  "published": "2026-09-10T16:58:49+12:00"
 }

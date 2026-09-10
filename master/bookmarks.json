@@ -5,78 +5,148 @@
       "location": "toolbar",
       "bookmarks": [
         {
-          "title": "Flixbaba",
-          "url": "https://flixbaba.mov/"
+          "title": "Rive",
+          "url": "https://www.rivestream.app/"
         },
         {
-          "title": "FLIXER - Your Premium Streaming Platform",
-          "url": "https://flixer.su/"
+          "title": "Cinejoy",
+          "url": "https://cinejoy.to/"
         },
         {
-          "title": "456movie",
-          "url": "https://456movie.nl/"
+          "title": "PopcornMovies",
+          "url": "https://popcornmovies.ac/"
         },
         {
-          "title": "YesMovies",
-          "url": "https://ww.yesmovies.ag/yes.html"
+          "title": "Movy",
+          "url": "https://www.movy.bz/"
         },
         {
-          "title": "PrimeFlix",
-          "url": "https://primeflix-web.vercel.app/"
-        },
-        {
-          "title": "Cinebytv",
-          "url": "https://broflix.cc/"
-        },
-        {
-          "title": "XPrime",
-          "url": "https://xprime.su/"
-        },
-        {
-          "title": "SpenFlix - Premium Streaming",
-          "url": "https://watch.spencerdevs.xyz/"
-        },
-        {
-          "title": "StreamM4u",
-          "url": "https://streamm4u.com.co/home"
+          "title": "P-Stream Forks",
+          "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_p-stream_forks"
         },
         {
           "title": "Cineby",
-          "url": "https://www.cineby.app/"
+          "url": "https://cineby.at/"
         },
         {
-          "title": "Rive",
-          "url": "https://rivestream.org/"
+          "title": "Flixer",
+          "url": "https://flixer.gd"
         },
         {
-          "title": "Cinegram ",
-          "url": "https://cinegram.net/home"
+          "title": "67Movies",
+          "url": "https://67movies.nl/"
         },
         {
-          "title": "NEPU Stream ",
+          "title": "bCine",
+          "url": "https://bcine.ru/"
+        },
+        {
+          "title": "Reelix",
+          "url": "https://reelix.ac/"
+        },
+        {
+          "title": "MeowTV",
+          "url": "https://meowtv.ru/"
+        },
+        {
+          "title": "ShuttleTV",
+          "url": "https://shuttletv.su/"
+        },
+        {
+          "title": "TouStream",
+          "url": "https://toustream.xyz/"
+        },
+        {
+          "title": "7Movies",
+          "url": "https://7movies.in/"
+        },
+        {
+          "title": "Z-Stream",
+          "url": "https://zstream.mov/"
+        },
+        {
+          "title": "Aether",
+          "url": "https://aether.ist/"
+        },
+        {
+          "title": "EE3",
+          "url": "https://ee3.me/"
+        },
+        {
+          "title": "Bingr",
+          "url": "https://bingr.one/"
+        },
+        {
+          "title": "CineStream",
+          "url": "https://cinestream.kje.us/"
+        },
+        {
+          "title": "NEPU",
           "url": "https://nepu.to/"
-        }
-      ]
-    },
-    {
-      "name": "[Free NZ TV]",
-      "location": "toolbar",
-      "bookmarks": [
-        {
-          "title": "TVNZ OnDemand",
-          "url": "https://www.tvnz.co.nz/shows"
         },
         {
-          "title": "ThreeNow | Three | Watch Episodes",
-          "url": "https://www.threenow.co.nz/"
+          "title": "1Shows",
+          "url": "https://www.1shows.org/"
         },
         {
-          "title": "Watch Free Movies and TV Shows Online | Tubi",
-          "url": "https://tubitv.com/"
+          "title": "CinemaOS",
+          "url": "https://cinemaos.live/"
         },
         {
-          "title": "Watch TV shows for free | bstsrs.in",
-          "url": "https://bstsrs.in/"
+          "title": "AniCine",
+          "url": "https://anicine.xyz/"
+        },
+        {
+          "title": "ZetMoon",
+          "url": "https://zetmoon.live/"
+        },
+        {
+          "title": "Primeshows",
+          "url": "https://www.primeshows.org/"
+        },
+        {
+          "title": "Anixtv",
+          "url": "https://anixx.fun/"
+        },
+        {
+          "title": "AuroraScreen",
+          "url": "https://aurorascreen.org/"
+        },
+        {
+          "title": "HydraHD",
+          "url": "https://hydrahd.ws/"
+        },
+        {
+          "title": "Fireflix",
+          "url": "https://fireflix.pages.dev/"
+        },
+        {
+          "title": "VK",
+          "url": "https://vkvideo.ru/"
+        },
+        {
+          "title": "OK",
+          "url": "https://ok.ru/video"
+        },
+        {
+          "title": "YouTube",
+          "url": "https://www.youtube.com/"
+        },
+        {
+          "title": "Dailymotion",
+          "url": "https://www.dailymotion.com/"
+        },
+        {
+          "title": "BiliBili",
+          "url": "https://www.bilibili.com/"
+        },
+        {
+          "title": "Nico Nico",
+          "url": "https://www.nicovideo.jp/"
+        },
+        {
+          "title": "Video Search CSE",
+          "url": "https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0"
         }
       ]
     },
@@ -85,272 +155,106 @@
       "location": "toolbar",
       "bookmarks": [
         {
-          "title": "Streamed sports",
+          "title": "NTV",
+          "url": "http://ntv.st/"
+        },
+        {
+          "title": "StreamSports99",
+          "url": "https://streamsports99.ru/live-tv"
+        },
+        {
+          "title": "DaddyLive TV",
+          "url": "https://dlhd.st//24-7-channels.php"
+        },
+        {
+          "title": "Famelack",
+          "url": "https://famelack.com/"
+        },
+        {
+          "title": "EasyWebTV",
+          "url": "https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/tv.html"
+        },
+        {
+          "title": "SportsBite TV",
+          "url": "https://sportsbite.org/channels"
+        },
+        {
+          "title": "Streamed",
           "url": "https://streamed.pk/"
         },
         {
-          "title": "BuffStream",
-          "url": "https://buffstreams.is/"
-        },
-        {
-          "title": "Live Rugby Streaming ",
-          "url": "https://www.vipbox.sc/rugby-live"
-        },
-        {
-          "title": "Watch Footy - Rugby",
-          "url": "https://watchfooty.st/en/rugby"
-        },
-        {
-          "title": "BINTV - Watch Any Live Sports Online",
-          "url": "https://www.bintv.net/"
-        },
-        {
-          "title": "TimStreams | Watch Live Sports Free",
-          "url": "https://timstreams.st/"
-        }
-      ]
-    },
-    {
-      "name": "[New Sports]",
-      "location": "toolbar",
-      "bookmarks": [
-        {
-          "title": "Streamed - Live Sports",
-          "url": "https://streamed.pk/"
-        },
-        {
-          "title": "⁠StreamFree - Live Sports",
+          "title": "⁠StreamFree",
           "url": "https://streamfree.top/"
         },
         {
-          "title": "TimStreams - Live Sports",
+          "title": "TimStreams",
           "url": "https://timstreams.st/"
         },
         {
-          "title": "SportsindX - Live Sports",
+          "title": "SportsindX",
           "url": "https://sportsindx.st/"
         },
         {
-          "title": "StreamSports99 - Live Sports",
-          "url": "https://streamsports99.ru/"
+          "title": "StreamSports99",
+          "url": "https://streamsports99.ru"
         },
         {
-          "title": "RoxieStreams - Live Sports",
+          "title": "RoxieStreams",
           "url": "https://roxiestreams.su/"
         },
         {
-          "title": "SportsBite - Live Sports",
+          "title": "SportsBite",
           "url": "https://sportsbite.org/"
         },
         {
-          "title": "BINTV - Live Sports",
+          "title": "BINTV",
           "url": "https://www.bintv.cc/"
         },
         {
-          "title": "Watch Footy - Live Sports",
+          "title": "Watch Footy",
           "url": "https://watchfooty.st/"
         },
         {
-          "title": "NTV - Live Sports",
+          "title": "NTV",
           "url": "http://ntv.cx/"
         },
         {
-          "title": "PPV.TO - Live Sports",
+          "title": "PPV.TO",
           "url": "https://ppv.st/"
         },
         {
-          "title": "WatchSports(su) - Stream Aggregator",
+          "title": "WatchSports(su)",
           "url": "https://watchsports.su/"
         },
         {
-          "title": "DaddyLive - Live Sports",
+          "title": "DaddyLive",
           "url": "https://dlhd.st/"
         },
         {
-          "title": "LiveTV - Live Sports",
+          "title": "LiveTV",
           "url": "https://livetv.sx/enx/"
         },
         {
-          "title": "Basketball Video - Basketball Replays",
-          "url": "https://basketball-video.com/"
-        },
-        {
-          "title": "Footballia - Classic Football Replays",
-          "url": "https://footballia.net/"
-        },
-        {
-          "title": "Watch-Wrestling.eu - MMA / Wrestling Replays",
+          "title": "Watch-Wrestling.eu",
           "url": "https://watch-wrestling.eu/"
         },
         {
-          "title": "1Max - MMA / Wrestling / Boxing Replays",
-          "url": "https://1max.top/"
-        },
-        {
-          "title": "Nascar Classics - Nascar Replays",
-          "url": "https://classics.nascar.com/"
-        },
-        {
-          "title": "FullRaces - Motorsport Replays",
+          "title": "FullRaces",
           "url": "https://fullraces.com/"
         }
       ]
     },
     {
-      "name": "[Streaming Movies]",
+      "name": "[Free NZ TV]",
       "location": "toolbar",
       "bookmarks": [
         {
-          "title": "Cineby - Stream Aggregators",
-          "url": "https://cineby.at/"
+          "title": "ThreeNow",
+          "url": "https://www.threenow.co.nz/"
         },
         {
-          "title": "PopcornMovies - Movies / TV / Anime / Auto-Next",
-          "url": "https://popcornmovies.io/"
-        },
-        {
-          "title": "P-Stream Forks - Movies / TV / Anime / Auto-Next",
-          "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_p-stream_forks"
-        },
-        {
-          "title": "Cinejoy - Stream Aggregators",
-          "url": "https://cinejoy.to/"
-        },
-        {
-          "title": "Rive - Stream Aggregators",
-          "url": "https://www.rivestream.app/"
-        },
-        {
-          "title": "GOATED - Stream Aggregators",
-          "url": "https://goated.cx/"
-        },
-        {
-          "title": "Flixer - Movies / TV / Anime / Auto-Next",
-          "url": "https://flixer.gd/"
-        },
-        {
-          "title": "67Movies - Stream Aggregators",
-          "url": "https://67movies.nl/"
-        },
-        {
-          "title": "Movy - Movies / TV / Anime / Auto-Next",
-          "url": "https://www.movy.bz/"
-        },
-        {
-          "title": "bCine - Stream Aggregators",
-          "url": "https://bcine.ru/"
-        },
-        {
-          "title": "Coreflix - Stream Aggregators",
-          "url": "https://coreflix.tv/"
-        },
-        {
-          "title": "MeowTV - Stream Aggregators",
-          "url": "https://meowtv.ru/"
-        },
-        {
-          "title": "ShuttleTV - Stream Aggregators",
-          "url": "https://shuttletv.su/"
-        },
-        {
-          "title": "TouStream - Stream Aggregators",
-          "url": "https://toustream.xyz/"
-        },
-        {
-          "title": "Vyla Entertainment - Stream Aggregators",
-          "url": "https://vyla.cc/"
-        },
-        {
-          "title": "1Shows - Multi-Server",
-          "url": "https://www.1shows.org/"
-        },
-        {
-          "title": "CinemaOS - Multi-Server",
-          "url": "https://cinemaos.live/"
-        },
-        {
-          "title": "AuroraScreen - Multi-Server",
-          "url": "https://www.aurorascreen.org/"
-        },
-        {
-          "title": "7Movies - Multi-Server",
-          "url": "https://7movies.in/"
-        },
-        {
-          "title": "AniCine - Multi-Server",
-          "url": "https://anicine.xyz/"
-        },
-        {
-          "title": "ZetMoon - Movies / TV / Anime",
-          "url": "https://zetmoon.live/"
-        },
-        {
-          "title": "Primeshows - Multi-Server",
-          "url": "https://www.primeshows.org/"
-        },
-        {
-          "title": "Anixtv - Multi-Server",
-          "url": "https://anixx.fun/"
-        },
-        {
-          "title": "HydraHD - Multi-Server",
-          "url": "https://hydrahd.ws/"
-        },
-        {
-          "title": "Fireflix - Movies / TV / Anime / Auto-Next",
-          "url": "https://fireflix.pages.dev/"
-        },
-        {
-          "title": "VK - Video Streaming",
-          "url": "https://vkvideo.ru/"
-        },
-        {
-          "title": "OK - Video Streaming",
-          "url": "https://ok.ru/video"
-        },
-        {
-          "title": "YouTube - Video Streaming",
-          "url": "https://www.youtube.com/"
-        },
-        {
-          "title": "Dailymotion - Video Streaming",
-          "url": "https://www.dailymotion.com/"
-        },
-        {
-          "title": "BiliBili - Video Streaming",
-          "url": "https://www.bilibili.com/"
-        },
-        {
-          "title": "Nico Nico - Video Streaming",
-          "url": "https://www.nicovideo.jp/"
-        },
-        {
-          "title": "Video Search CSE - Multi-Site Video Search",
-          "url": "https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0"
-        },
-        {
-          "title": "Z-Stream - P-Stream Forks",
-          "url": "https://zstream.mov/"
-        },
-        {
-          "title": "Aether - P-Stream Forks",
-          "url": "https://aether.bar/"
-        },
-        {
-          "title": "EE3 - Movies / Invite Codes: `mpgh` or `1hack` / Requires Sign-Up",
-          "url": "https://ee3.me/"
-        },
-        {
-          "title": "Bingr - Dedicated-Server",
-          "url": "https://bingr.one/"
-        },
-        {
-          "title": "CineStream - Dedicated-Server",
-          "url": "https://cinestream.kje.us/p"
-        },
-        {
-          "title": "NEPU - Dedicated-Server",
-          "url": "https://nepu.to/"
+          "title": "TVNZ+",
+          "url": "https://www.tvnz.co.nz/"
         }
       ]
     }
