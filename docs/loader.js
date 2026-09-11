@@ -1,1 +1,31 @@
-'use strict';fetch('manifest.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('Home is temporarily unavailable. Please try again.');return r.json();}).then(m=>{if(!/^releases\/[a-f0-9]{24}\/index\.html$/.test(m.app))throw Error('Invalid Home release.');location.replace(new URL(m.app,location.href));}).catch(e=>{document.getElementById('status').textContent=e.message;});
+'use strict';
+(async () => {
+  const root = new URL('./', location.href);
+  const response = await fetch(new URL('manifest.json', root), {cache: 'no-store'});
+  if (!response.ok) throw Error('Home is temporarily unavailable. Please try again.');
+  const manifest = await response.json();
+  if (!/^releases\/[a-f0-9]{24}\/index\.html$/.test(manifest.app)) throw Error('Invalid Home release.');
+  const release = new URL(manifest.app, root);
+  const page = await fetch(release);
+  if (!page.ok) throw Error('Home release is unavailable. Please try again.');
+  const content = new DOMParser().parseFromString(await page.text(), 'text/html');
+  content.querySelectorAll('base').forEach(node => node.remove());
+  const base = content.createElement('base');
+  base.href = new URL('./', release).href;
+  content.head.prepend(base);
+  // Mount the immutable app in this document, preserving the stable address.
+  // Parsed scripts are inert: re-create them after the complete DOM is installed.
+  const scripts = [...content.querySelectorAll('script')];
+  scripts.forEach(script => script.remove());
+  document.documentElement.replaceWith(document.importNode(content.documentElement, true));
+  for (const old of scripts) {
+    const script = document.createElement('script');
+    for (const attribute of old.attributes) script.setAttribute(attribute.name, attribute.value);
+    script.textContent = old.textContent;
+    script.async = false;
+    document.head.append(script);
+  }
+})().catch(error => {
+  const status = document.getElementById('status');
+  if (status) status.textContent = error.message;
+});
