@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "release": "f88b4b572ea962db357e574d",
-  "app": "releases/f88b4b572ea962db357e574d/index.html",
-  "catalogue": "releases/f88b4b572ea962db357e574d/catalogue.json",
+  "release": "e2ce71383a6238b6d121e7a1",
+  "app": "releases/e2ce71383a6238b6d121e7a1/index.html",
+  "catalogue": "releases/e2ce71383a6238b6d121e7a1/catalogue.json",
   "sources": 60,
-  "catalogue_version": 4
+  "catalogue_version": 5
 }
