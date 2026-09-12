@@ -1,8 +1,9 @@
 {
   "schema_version": 1,
-  "release": "c33ada852c76480d4126890c",
-  "app": "releases/c33ada852c76480d4126890c/index.html",
-  "catalogue": "releases/c33ada852c76480d4126890c/catalogue.json",
+  "release": "166562054c80bb68908ad80a",
+  "app": "releases/166562054c80bb68908ad80a/index.html",
+  "catalogue": "releases/166562054c80bb68908ad80a/catalogue.json",
+  "loader": "assets/7e1ddcd3c51f6662265be8a7164a24ce8bf1bf6c416bdbb10c7424581bcf7d29.js",
   "sources": 65,
-  "catalogue_version": 8
+  "catalogue_version": 9
 }
