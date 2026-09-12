@@ -61,6 +61,10 @@
           "url": "https://7movies.in/"
         },
         {
+          "title": "67Movies",
+          "url": "https://67movies.st/"
+        },
+        {
           "title": "Z-Stream",
           "url": "https://zstream.mov/"
         },
@@ -83,6 +87,18 @@
         {
           "title": "NEPU",
           "url": "https://nepu.to/"
+        },
+        {
+          "title": "Boomflix",
+          "url": "https://boomflix.qzz.io/"
+        },
+        {
+          "title": "Atlantic",
+          "url": "https://atlantic.st/"
+        },
+        {
+          "title": "NEPU",
+          "url": "https://nepu.io/"
         },
         {
           "title": "1Shows",
@@ -147,6 +163,10 @@
         {
           "title": "Video Search CSE",
           "url": "https://cse.google.com/cse?cx=006516753008110874046:6v9mqdaai6q#gsc.tab=0"
+        },
+        {
+          "title": "Flixbaba",
+          "url": "https://flixbaba.best/"
         }
       ]
     },
